@@ -1,0 +1,12 @@
+{
+  "pages": ["pages/index/index"],
+  "window": {
+    "navigationBarTitleText": "重生之球来砖往",
+    "navigationBarBackgroundColor": "#0a0a2e",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#0a0a2e",
+    "pageOrientation": "portrait"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
